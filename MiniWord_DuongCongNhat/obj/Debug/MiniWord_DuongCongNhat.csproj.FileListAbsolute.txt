@@ -1,0 +1,11 @@
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.csproj.AssemblyReference.cache
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.frmFindReplace.resources
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.frmNhat.resources
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.Properties.Resources.resources
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.csproj.GenerateResource.cache
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.csproj.CoreCompileInputs.cache
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\bin\Debug\MiniWord_DuongCongNhat.exe.config
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\bin\Debug\MiniWord_DuongCongNhat.exe
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\bin\Debug\MiniWord_DuongCongNhat.pdb
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.exe
+F:\laptrinhwindows\MiniWord_DuongCongNhat\MiniWord_DuongCongNhat\obj\Debug\MiniWord_DuongCongNhat.pdb
